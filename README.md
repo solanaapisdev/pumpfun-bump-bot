@@ -4,6 +4,8 @@
 
 **Pumpfun Bump Bot** is designed to help you maximize your token’s visibility on **Pumpfun** by creating multiple bump orders. This innovative bot helps place multiple buy orders, allowing your token to climb up the rankings and be featured on the first page of Pumpfun, attracting more potential buyers and increasing your token’s exposure.
 
+![Pumpfun Bump Bot](https://github.com/solanaapisdev/pumpfun-bump-bot/blob/main/Pumpfun-Bump-Bot.png)
+
 ---
 
 ### 🚀 **How the Pumpfun Bump Bot Works**
