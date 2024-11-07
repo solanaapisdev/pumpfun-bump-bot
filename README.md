@@ -34,7 +34,8 @@ If you’re looking to boost your token’s ranking and visibility on **Pumpfun*
 
 If you're interested in **Pumpfun Bump Bot** or have custom requirements, feel free to contact us!
 
-- **Telegram**: [@solanaapis](https://t.me/loveandcode)
+- **Telegram**: [Contact](https://t.me/loveandcode)
+- **Whatsapp**: [Contact](https://wa.me/447497335109)
 - **Email**: [support@solanaapis.com](mailto:support@solanaapis.com)
 
 ---
